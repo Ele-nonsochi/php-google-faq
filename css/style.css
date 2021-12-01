@@ -1,0 +1,37 @@
+header{
+    margin-bottom: 50px;
+}
+
+.logo {
+    padding: 20px;
+    display: flex;
+}
+
+.logo h2 {
+    font-size: 20px;
+    color: gray;
+    margin-left: 10px;
+}
+
+.nav{
+    border-bottom: 1px solid black;
+}
+
+.nav .container-link:last-child{
+    border-bottom: 5px solid blue;
+}
+
+.nav .container-link:last-child a{
+    color: blue;
+}
+
+.container-link {
+    margin-right: 15px;
+    padding: 10px;
+
+}
+
+.container-link  a {
+    text-decoration: none;
+    color: black;
+}
